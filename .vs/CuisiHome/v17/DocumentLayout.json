@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\globu\\source\\repos\\CuisiHome\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DBC29352-01F8-48BD-B2C8-8FEF8A2C3A0A}|CuisiHome\\CuisiHome.csproj|c:\\users\\globu\\source\\repos\\cuisihome\\cuisihome\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DBC29352-01F8-48BD-B2C8-8FEF8A2C3A0A}|CuisiHome\\CuisiHome.csproj|solutionrelative:cuisihome\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBC29352-01F8-48BD-B2C8-8FEF8A2C3A0A}|CuisiHome\\CuisiHome.csproj|C:\\Users\\globu\\source\\repos\\CuisiHome\\cuisihome\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DBC29352-01F8-48BD-B2C8-8FEF8A2C3A0A}|CuisiHome\\CuisiHome.csproj|solutionrelative:cuisihome\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBC29352-01F8-48BD-B2C8-8FEF8A2C3A0A}|CuisiHome\\CuisiHome.csproj|C:\\Users\\globu\\source\\repos\\CuisiHome\\cuisihome\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DBC29352-01F8-48BD-B2C8-8FEF8A2C3A0A}|CuisiHome\\CuisiHome.csproj|solutionrelative:cuisihome\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form3.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\globu\\source\\repos\\CuisiHome\\CuisiHome\\Form3.cs",
+              "RelativeDocumentMoniker": "CuisiHome\\Form3.cs",
+              "ToolTip": "C:\\Users\\globu\\source\\repos\\CuisiHome\\CuisiHome\\Form3.cs [Design]",
+              "RelativeToolTip": "CuisiHome\\Form3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T19:19:48.694Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\globu\\source\\repos\\CuisiHome\\CuisiHome\\Form2.cs",
+              "RelativeDocumentMoniker": "CuisiHome\\Form2.cs",
+              "ToolTip": "C:\\Users\\globu\\source\\repos\\CuisiHome\\CuisiHome\\Form2.cs [Design]",
+              "RelativeToolTip": "CuisiHome\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T16:16:51.961Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\globu\\source\\repos\\CuisiHome\\CuisiHome\\Form1.cs",
+              "RelativeDocumentMoniker": "CuisiHome\\Form1.cs",
+              "ToolTip": "C:\\Users\\globu\\source\\repos\\CuisiHome\\CuisiHome\\Form1.cs [Design]",
+              "RelativeToolTip": "CuisiHome\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T16:08:00.978Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

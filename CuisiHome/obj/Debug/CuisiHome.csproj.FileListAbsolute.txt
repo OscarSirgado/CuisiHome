@@ -1,0 +1,12 @@
+C:\Users\globu\source\repos\CuisiHome\CuisiHome\obj\Debug\CuisiHome.csproj.AssemblyReference.cache
+C:\Users\globu\source\repos\CuisiHome\CuisiHome\obj\Debug\CuisiHome.Form1.resources
+C:\Users\globu\source\repos\CuisiHome\CuisiHome\obj\Debug\CuisiHome.Form2.resources
+C:\Users\globu\source\repos\CuisiHome\CuisiHome\obj\Debug\CuisiHome.Properties.Resources.resources
+C:\Users\globu\source\repos\CuisiHome\CuisiHome\obj\Debug\CuisiHome.csproj.GenerateResource.cache
+C:\Users\globu\source\repos\CuisiHome\CuisiHome\obj\Debug\CuisiHome.csproj.CoreCompileInputs.cache
+C:\Users\globu\source\repos\CuisiHome\CuisiHome\bin\Debug\CuisiHome.exe.config
+C:\Users\globu\source\repos\CuisiHome\CuisiHome\bin\Debug\CuisiHome.exe
+C:\Users\globu\source\repos\CuisiHome\CuisiHome\bin\Debug\CuisiHome.pdb
+C:\Users\globu\source\repos\CuisiHome\CuisiHome\obj\Debug\CuisiHome.exe
+C:\Users\globu\source\repos\CuisiHome\CuisiHome\obj\Debug\CuisiHome.pdb
+C:\Users\globu\source\repos\CuisiHome\CuisiHome\obj\Debug\CuisiHome.Form3.resources
